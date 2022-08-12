@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "547355892491",
+    "project_id": "bello-6823d",
+    "storage_bucket": "bello-6823d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547355892491:android:3f4e4cdeeb5b6a627a600e",
+        "android_client_info": {
+          "package_name": "com.example.bello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547355892491-kttn24ulgcekus5bq7no4kploc58idfa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bello",
+            "certificate_hash": "5eea851b743904d6ce7fda79d8eb78c345045f32"
+          }
+        },
+        {
+          "client_id": "547355892491-6mtl00u89tj8tf9u0v8l5g1km17aeedd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzHK2_eobC439N2NKLGJsCVuqsHH21uUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547355892491-6mtl00u89tj8tf9u0v8l5g1km17aeedd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547355892491-ds3ehlrp8rv0jpbeus050kmhp0ilu5of.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bello"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
